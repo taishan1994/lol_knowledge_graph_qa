@@ -1,4 +1,4 @@
-# lol_knowledge_grapg_qa
+# lol_knowledge_graph_qa
 基于英雄联盟知识图谱的问答
 
 # 说明
