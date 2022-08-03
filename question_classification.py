@@ -133,7 +133,7 @@ if __name__ == '__main__':
     """
         input an question: 
         question = "德玛西亚有什么景色吗"
-        {'args': {'德玛西亚': ['city_names']}, 'question_types': ['env_info']}
+        {'args': {'德玛西亚': ['city_names']}, 'question_types': ['city_has_env']}
     """
     # while 1:
     #     question = input('input an question:')
